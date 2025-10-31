@@ -15,10 +15,12 @@ h1{
 
 h2{
   font-family: "Cheltenham";
+  font-size: 30;
 }
 
 p{
   font-family: "Cheltenham";
+  font-size: 25px;
 }
 
 .headD {
@@ -29,11 +31,10 @@ p{
 
 
 #cont {
-  justify-content: center;
-  align-items: center; 
+  margin: 0 auto; 
   border-style: solid;
   border-width: 1px;
-  margin: 50px;
+  width: 800px;
 }
 
 #article1 {
