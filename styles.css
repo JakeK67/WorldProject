@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Cheltenham";
-  src: url("../Fonts/Cheltenham.ttf") format("truetype");
+  src: url("Fonts/Cheltenham.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Chomsky";
-  src: url("../Fonts/Chomsky.otf") format("truetype");
+  src: url("Fonts/Chomsky.otf") format("truetype");
 }
 
 h1{
