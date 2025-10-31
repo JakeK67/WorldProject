@@ -26,3 +26,11 @@ p{
   border: 1px;
   text-align: center;
 }
+
+
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  border-style: solid;
+}
