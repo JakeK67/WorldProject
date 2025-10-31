@@ -28,10 +28,28 @@ p{
 }
 
 
-.cont {
-  display: flex;
+#cont {
   justify-content: center;
   align-items: center; 
   border-style: solid;
+  border-width: 1px;
   margin: 50px;
+}
+
+#article1 {
+  justify-content: center;
+  align-items: center; 
+  border-style: solid;
+  border-width: 3px;
+  margin: 50px;
+}
+
+#article1 h2 {
+  text-align: center;
+}
+#article1 p{
+  margin-left: 20px;
+  margin-right: 20px;
+  line-height: 23px;
+  word-wrap: break-word;
 }
