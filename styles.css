@@ -24,9 +24,8 @@ p{
 }
 
 .headD {
-  margin: 20px;
+  margin-left: 170px;
   border: 1px;
-  text-align: center;
 }
 
 
@@ -34,24 +33,43 @@ p{
   margin: 0 auto; 
   border-style: solid;
   border-width: 1px;
-  width: 800px;
+  width: 1000px;
 }
 
 #article1 {
   justify-content: center;
   align-items: center; 
   border-style: solid;
-  border-width: 3px;
+  border-width: 2px;
   margin: 50px;
+  overflow: hidden;
 }
 
 #article1 h2 {
   text-align: center;
 }
+
 #article1 p{
   margin-left: 20px;
   margin-right: 20px;
   line-height: 23px;
   word-wrap: break-word;
   text-indent: 2em;
+}
+
+img {
+  float: right;
+  margin: 30px;
+  width: 200px;
+}
+
+.impactB {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+}
+
+.img1 {
+  float: left;
+  margin: 25px;
+  width: 400px;
 }
